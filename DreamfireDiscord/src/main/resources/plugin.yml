@@ -1,0 +1,5 @@
+name: DreamfireDiscord
+version: 1.0.0-SNAPSHOT
+main: com.dreamfirestudios.dreamfirediscord.DreamfireDiscord
+api-version: 1.21
+depend: [DreamCore, DreamConfig, DreamCommand]
